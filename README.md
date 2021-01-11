@@ -12,4 +12,4 @@ Pasan los días y 2d desilucionado se refugia entre sus libros, pero con azarosa
 Con el anímo arriba emprende un viaje a traves de la red, en busqueda de más información, información útil para él. Al inicio todo lo que encuentra es maravilloso pero muy general, lo cual es bueno pero él desea información más concreta y precisa. Después de unos días llega a una gran pagina: kaggel, la cual es una especíe de 'oráculo' que le otorga respuestas a sus inquietudes pero bajo un precio, saber programar. Afortunadamente de 2d de sus cursos básicos sabe usar algunos lengujes de programación, por lo cual se sube a dicha aventura.
 
 Para realizar cualquier pregunta el 'oráculo' da un conjunto de datos que bajo un lenguaje de programación y un armamento (conjunto de librerias) la persona que hace las preguntas puede obtener una respuesta. Por tanto 2d carga sus mejores armas para la exploración, visualización y análisis de información.
- ### Algunas graficas son dinámicas por tanto no se visualizan en github.
+ ### Algunas gráficas son dinámicas por tanto no se visualizan en github.
